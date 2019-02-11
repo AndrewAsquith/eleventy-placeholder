@@ -1,24 +1,23 @@
 {
-  "name": "eleventy-base",
+  "name": "eleventy-placeholder",
   "version": "0.0.1",
-  "description": "Eleventy Starter Project",
+  "description": "Eleventy Placeholder Page",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AndrewAsquith/eleventy-base"
+    "url": "https://github.com/AndrewAsquith/eleventy-placeholder"
   },
   "keywords": [
-    "Eleventy",
-    "starter"
+    "Eleventy"
   ],
   "author": "Andrew Asquith",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AndrewAsquith/eleventy-base/issues"
+    "url": "https://github.com/AndrewAsquith/eleventy-placeholder/issues"
   },
-  "homepage": "https://github.com/AndrewAsquith/eleventy-base#readme",
+  "homepage": "https://github.com/AndrewAsquith/eleventy-placeholder#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.7.1",
     "dotenv": "^6.2.0",
